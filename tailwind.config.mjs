@@ -9,15 +9,16 @@ export default {
         DEFAULT: {
           css: {
             color: "black",
-            hr: {
-              borderColor: theme("colors.neutral[400]"),
-            },
             'li > input[type="checkbox"]': {
               marginRight: "0.5rem",
             },
             ".footnotes": {
               borderTop: "1px solid black",
-              marginTop: "6rem",
+              marginTop: "3rem",
+              paddingTop: "2rem",
+              h2: {
+                display: "none",
+              },
             },
           },
         },

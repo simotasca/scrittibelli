@@ -19,7 +19,7 @@ implementazione di queste.
 ### Transizione dall'imperialismo
 
 In particolare negli ultimi secoli dello scorso millennio il mondo ha vissuto
-una transizione da una politica imperialista[^1], la quale implicava la ricerca
+una transizione da una politica imperialista, la quale implicava la ricerca
 della supremazia nazionale in un contesto di conflittualità internazionale,
 verso il sistema democratico odierno e quindi verso la necessità di un dialogo
 internazionale. Il nazionalismo non si limita alla ricerca dell'interesse
@@ -128,10 +128,3 @@ significa che il popolo ebraico non abbia diritto ad uno stato in cui vivere.
   Israele incarna questo problema)
 - il significato della terra promessa
 - la necessità del sionismo (fare spazio dove non c'è spazio)
-
-[^1]:
-    [_treccani:_](https://www.treccani.it/enciclopedia/imperialismo)
-    Imperialismo: Politica di potenza e di supremazia di uno Stato tesa a creare
-    una situazione di predominio, diretto o indiretto, su altre nazioni,
-    mediante conquista militare, annessione territoriale, sfruttamento economico
-    o egemonia politica.
