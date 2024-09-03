@@ -7,6 +7,7 @@
     font-family: serif;
   }
   body {
-    @apply mx-auto max-w-4xl px-6 pt-2 pb-10;
+    @apply mx-auto max-w-4xl;
+    @apply px-6 pt-2 pb-10 max-sm:px-4;
   }
 }

@@ -13,7 +13,7 @@ export default {
               marginRight: "0.5rem",
             },
             ".footnotes": {
-              borderTop: "1px solid black",
+              borderTop: `1px solid ${theme("colors.neutral[400]")}`,
               marginTop: "3rem",
               paddingTop: "2rem",
               h2: {
