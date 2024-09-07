@@ -1,14 +1,14 @@
 ---
 import { Image } from "astro:assets";
-import type { CollectionEntry } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import HomepageButton from "../components/HomepageButton.astro";
 import Prose from "../components/Prose.astro";
+import type { PublicBlogPost } from "../content/types";
 
 import logo from "../../public/img/logo-quarto-raggio.svg";
 
-type Props = CollectionEntry<"blog">["data"];
+type Props = PublicBlogPost;
 
 const { title, description, pubDate } = Astro.props;
 ---

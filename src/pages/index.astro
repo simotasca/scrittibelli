@@ -3,14 +3,17 @@ import { getCollection } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+import { type PublicBlogCollectionEntry } from "../content/types";
 import { notesDate } from "../lib/utils";
 
-const posts = (await getCollection("blog")).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const posts = (await getCollection("blog"))
+  .filter((p): p is PublicBlogCollectionEntry => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
 const notes = (await getCollection("notes")).sort(
   (a, b) => notesDate(b.slug).valueOf() - notesDate(a.slug).valueOf()
 );
+
 const series = (await getCollection("series")).sort((a, b) =>
   a.data.title.localeCompare(b.data.title)
 );

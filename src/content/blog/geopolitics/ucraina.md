@@ -5,10 +5,11 @@ pubDate: "2024/09/02"
 ---
 
 vedily:
+
 - https://it.wikipedia.org/wiki/Gene_Sharp
 - https://www.youtube.com/watch?v=qtOJfVyne9w
 
-## Cenni sotrici più vecchi
+## Cenni storici più vecchi
 
 ### Holodomor (1932 – 1933)
 
@@ -17,7 +18,9 @@ Genocidio per fame di oltre 6 milioni di persone da parte di Stalin a danno dell
 - [Articolo sull'Holodomor](https://it.gariwo.net/educazione/approfondimenti/holodomor-3502.html)
 - [Wikipedia](https://it.wikipedia.org/wiki/Holodomor)
 
-## Storia moderna[^1]
+## Storia moderna
+
+Video di Nova Lectio: [Cosa succede in Donbass tra Russia e Ucraina?](https://www.youtube.com/watch?v=R0YOF43myc8)
 
 ### Rivoluzione Arancione (2004)
 
@@ -74,10 +77,9 @@ Da li al 2015 si hanno gli accordi di Minsk. L'ucraina torna ai suoi confini pre
 
 > Accordi Merkel - Putin per il Nord Stream 2, che non passa dall'Ucraina come il primo ma dal mar Baltico.
 
-
 ### Questione NATO
 
-Putin da parte sua non vuole vedere la NATO fare espansionismo attraverso l'inglobazione di paesi di confine (storicamente URSS). 
+Putin da parte sua non vuole vedere la NATO fare espansionismo attraverso l'inglobazione di paesi di confine (storicamente URSS).
 
 Questo anche in relazione agli avamposti militari (possibili e attivi) schierati sul confine Ucraino da parte della NATO.
 
@@ -85,16 +87,14 @@ La questione Donbass potrebbe essere un motivo per cui la nato non potrebbe amme
 
 Nova lectio sostiene che la NATO non ha dispiegato mai gli eserciti sul confine russia-ucraina, che risulta strategicamente poco valido.
 
-### Febbraio 2022 inizio della guerra.
-
-TODO...
-
 ## Questione del gasdotto
 
-TODO...
+Trump dice di aver fermato i lavori del Nord Stream 2, e che in seguito Biden l'ha approvato.
 
+Era stato opposto da Obama, Trump e Biden. Questo per evitare che l'Europa diventasse ancora più dipendente dal gas russo.
+
+C'è stato un sabotaggio dei due nord stream, ma non si sa da chi.
 https://www.analisidifesa.it/2023/06/le-imbarazzanti-rivelazioni-sulla-distruzione-dei-gasdotti-nord-stream/
-
 
 ## Visione di Putin
 
@@ -102,12 +102,22 @@ TODO...
 
 ## La visione di RFK Jr.
 
-Esistono delle convenzioni NATO secondo cui tutti gli stati della convenzione devono utilizzare armi che rispettano un certo standard, armi che vengono vendute da un cartello di colossi i quali fanno tutti capo a BlackSarcazzo, la più grande agenzia di investimenti al mondo.
+### Chi è interessato alla guerra
+
+video: https://web.telegram.org/a/#-1001157143506
+
+La Russia ha offerto diversi accordi di pace vantaggiori per l'Ucraina chiedendo solo che essa rimanesse fuori dalla NATO. Ma ogni stato che entra nella NATO deve conformare le proprie spese militari alle specifiche dell'alleanza sulle armi e questo è nell'interesse dei grandi appaltatori militari come Northrop Grumann, Ratheon, General Dynamics, Boeing e Lockheed (tutte in mano al colosso Black Rock).
+
+Oltre alle spese belliche ci sanno altre spese successive alla guerra, per la ricostruzione di ciò che è stato distrutto.
+
+[Mitch McConnell](https://it.wikipedia.org/wiki/Mitch_McConnell) ha dichiarato che queste spese non sono un problema per l'America perchè vanno tutte nella manifattura militare americana, ammettendo che questo è fondamentalmente un meccanismo di riciclaggio del denaro.
+
+[Tim Scott](https://it.wikipedia.org/wiki/Tim_Scott) ha chiamato i soldi inviati in Ucraina un "prestito". Ma naturalmente nessuno si aspetta che sia ripagato. è però vero che esistono delle condizioni: L'Ucraina deve mettere in vendita tutti i suoi asset statali alle multinazionali, incluse le sue terre coltivabili, uno dei suoi più grandi asset per i quali ha combattuto per oltre un secolo[^1]. Di queste il 30% sono già state acquistate da società come: Dupondt, Cargill e Monsanto (anch'esse in mano a Black Rock)[^2].
 
 Dicono (chi?) che i soldi mandati in Ucraina sono soldi dati in prestito, i quali rientrano nelle casse americane per le vie descritte sopra.
 
 Dunque Trump a chi fa un favore dicendo di voler interrompere i finanziamenti all'ucraina? L'america ci guadagna dalla guerra, l'Europa è contenta di maneggiare i soldi americani (che spiegazione spiccia)
 
-> link al video
+[^1]: [Relief Web: War and Theft. The Takeover of Ukraine’s Agricultural Land](https://reliefweb.int/report/ukraine/war-and-theft-takeover-ukraines-agricultural-land)
 
-[^1]: [Nova Lectio: Cosa succede in Donbass tra Russia e Ucraina?](https://www.youtube.com/watch?v=R0YOF43myc8)
+[^2]: [Washington Examiner: Zelensky announces alliance with BlackRock for reconstruction of Ukraine](https://www.washingtonexaminer.com/news/449105/zelensky-announces-alliance-with-blackrock-for-reconstruction-of-ukraine/)

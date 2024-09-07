@@ -128,3 +128,4 @@ significa che il popolo ebraico non abbia diritto ad uno stato in cui vivere.
   Israele incarna questo problema)
 - il significato della terra promessa
 - la necessità del sionismo (fare spazio dove non c'è spazio)
+- Perchè la gerusalemme celeste richiede la presenza di una israele fisica?

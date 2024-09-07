@@ -49,4 +49,5 @@ Se da un lato le considerazioni materialistiche possono rivelarsi utili, il vero
 Dal punto di vist
 
 [^1]: https://it.wikipedia.org/wiki/Materialismo_dialettico
+
 [^2]: _ibid._ "La legge della compenetrazione degli opposti (ossia dell'unità e del conflitto degli opposti) garantisce l'unità ed al tempo stesso il mutamento incessante della natura: tutte le esistenze essendo costituite di elementi e forze in opposizione hanno il carattere di una unità in divenire; l'unità è considerata temporanea, mentre il processo di mutamento è continuo. Le categorie hanno contorni sfumati ma non per questo è illusoria o meno intensa la loro contrapposizione e la dinamica evolutiva che ne deriva."
