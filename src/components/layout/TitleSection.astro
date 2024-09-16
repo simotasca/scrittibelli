@@ -1,0 +1,16 @@
+---
+import FormattedDate from "@/components/FormattedDate.astro";
+type Props = { title: string; description: string; date?: Date };
+---
+
+<center class="mb-12">
+  {
+    Astro.props.date && (
+      <p class="text-sm mb-1">
+        <FormattedDate date={Astro.props.date} />
+      </p>
+    )
+  }
+  <h1 class="text-3xl font-bold">{Astro.props.title}</h1>
+  <p class="mt-4 -mb-3">{Astro.props.description}</p>
+</center>

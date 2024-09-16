@@ -1,0 +1,78 @@
+---
+import type { MarkdownHeading } from "astro";
+import Button from "./Button.astro";
+
+type Props = { headings: MarkdownHeading[] };
+const headings = Astro.props.headings.filter(
+  (h) => 1 < h.depth && h.depth < 4 && h.slug != "footnote-label"
+);
+---
+
+{
+  headings.length > 0 ? (
+    <x-table-of-contents class="block border border-slate-300 shadow py-2 px-3">
+      <div class="flex items-baseline gap-3">
+        <h3 class="font-bold">Indice</h3>
+        <Button data-toc-toggle class="text-sm">
+          <span data-toc-toggle-label>chiudi</span>
+        </Button>
+      </div>
+      <div data-toc-expandible>
+        <hr class="mt-1 mb-2" />
+        <nav>
+          <ul class="list-inside list-decimal text-sm">
+            {headings.map(({ depth, text, slug }) => (
+              <li class={depth == 2 ? "list-disc" : "list-[circle] ml-5"}>
+                <a class="hover:underline hover:text-[blue]" href={"#" + slug}>
+                  {text}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </x-table-of-contents>
+  ) : (
+    <hr class="border-neutral-400" />
+  )
+}
+<script>
+  class HTMLTOCElement extends HTMLElement {
+    private _isExpanded: boolean = true;
+
+    private expandible: HTMLDivElement;
+    private label: HTMLSpanElement;
+
+    constructor() {
+      super();
+      this.label = this.querySelector("[data-toc-toggle-label]")!;
+      this.expandible = this.querySelector("[data-toc-expandible]")!;
+      
+      const toggle = this.querySelector<HTMLButtonElement>("[data-toc-toggle]")!;
+      toggle.addEventListener("click", () => this.toggle());
+    }
+
+    public get isExpanded() {
+      return this._isExpanded;
+    }
+
+    public set isExpanded(val: boolean) {
+      if (this._isExpanded !== val) {
+        if (val) {
+          this.label.textContent = "chiudi";
+          this.expandible.classList.remove("hidden");
+        } else {
+          this.label.textContent = "apri";
+          this.expandible.classList.add("hidden");
+        }
+      }
+      this._isExpanded = val;
+    }
+
+    public toggle() {
+      this.isExpanded = !this.isExpanded;
+    }
+  }
+
+  window.customElements.define("x-table-of-contents", HTMLTOCElement);
+</script>

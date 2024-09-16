@@ -1,0 +1,10 @@
+---
+type Props = astroHTML.JSX.ButtonHTMLAttributes;
+const { class: className, ...props } = Astro.props;
+---
+
+<button {...props} class={"group tracking-wide inline-flex " + className}>
+  <span>[</span>
+  <span class="group-hover:underline group-hover:text-[blue]"><slot /></span>
+  <span>]</span>
+</button>

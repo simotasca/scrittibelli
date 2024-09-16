@@ -1,16 +1,13 @@
 ---
-import { Image } from "astro:assets";
+import BaseHead from "@/components/BaseHead.astro";
+import FormattedDate from "@/components/FormattedDate.astro";
+import Prose from "@/components/Prose.astro";
+import TitleSection from "@/components/layout/TitleSection.astro";
+import Header from "@/components/layout/Header.astro";
+import type { PublicBlogCollectionEntry } from "@/content/types";
 import { getEntries, type CollectionEntry } from "astro:content";
-import BaseHead from "../components/BaseHead.astro";
-import FormattedDate from "../components/FormattedDate.astro";
-import HomepageButton from "../components/HomepageButton.astro";
-import Prose from "../components/Prose.astro";
-
-import logo from "../../public/img/logo-quarto-raggio.svg";
-import type { PublicBlogCollectionEntry } from "../content/types";
 
 type Props = CollectionEntry<"series">["data"];
-
 const { title, description, posts } = Astro.props;
 const relatedPosts = await getEntries(posts);
 ---
@@ -21,25 +18,19 @@ const relatedPosts = await getEntries(posts);
   </head>
 
   <body>
-    <header class="mb-2 flex items-center justify-between gap-x-6">
-      <Image src={logo} alt="logo quarto raggio" class="size-8" />
-      <HomepageButton />
-    </header>
+    <Header />
+
+    <main>
+      <TitleSection title={title} description={description} />
+    </main>
 
     <Prose>
       <article>
-        <main>
-          <center>
-            <h1 class="mt-1 mb-3">{title}</h1>
-            <p class="mt-0 -mb-3">{description}</p>
-            <hr />
-          </center>
-        </main>
         <slot />
       </article>
 
       <section>
-        <h2>Posts</h2>
+        <h2>Posts:</h2>
         <ul class="not-prose">
           {
             relatedPosts

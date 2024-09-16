@@ -1,16 +1,15 @@
 ---
-import { Image } from "astro:assets";
-import BaseHead from "../components/BaseHead.astro";
-import FormattedDate from "../components/FormattedDate.astro";
-import HomepageButton from "../components/HomepageButton.astro";
-import Prose from "../components/Prose.astro";
-import type { PublicBlogPost } from "../content/types";
+import BaseHead from "@/components/BaseHead.astro";
+import Prose from "@/components/Prose.astro";
+import TableOfContents from "@/components/TableOfContents.astro";
+import Footer from "@/components/layout/Footer.astro";
+import Header from "@/components/layout/Header.astro";
+import TitleSection from "@/components/layout/TitleSection.astro";
+import type { PublicBlogPost } from "@/content/types";
+import type { MarkdownHeading } from "astro";
 
-import logo from "../../public/img/logo-quarto-raggio.svg";
-
-type Props = PublicBlogPost;
-
-const { title, description, pubDate } = Astro.props;
+type Props = PublicBlogPost & { headings?: MarkdownHeading[] };
+const { title, description, pubDate, headings } = Astro.props;
 ---
 
 <html lang="it">
@@ -19,23 +18,24 @@ const { title, description, pubDate } = Astro.props;
   </head>
 
   <body>
-    <header class="mb-2 flex items-center justify-between gap-x-6">
-      <Image src={logo} alt="logo quarto raggio" class="size-8" />
-      <HomepageButton />
-    </header>
+    <Header />
 
-    <Prose>
-      <article>
-        <main>
-          <center>
-            <FormattedDate date={pubDate} />
-            <h1 class="mt-1">{title}</h1>
-            <p class="mt-0 -mb-3">{description}</p>
-            <hr />
-          </center>
-        </main>
+    <main>
+      <TitleSection title={title} description={description} date={pubDate} />
+    </main>
+
+    <section class="mb-12">
+      {headings && <TableOfContents headings={headings} />}
+    </section>
+
+    <article>
+      <Prose>
         <slot />
-      </article>
-    </Prose>
+      </Prose>
+    </article>
+
+    <Footer />
   </body>
 </html>
+
+<!-- <script src="@/scripts/highlight-hash-target.ts"></script> -->

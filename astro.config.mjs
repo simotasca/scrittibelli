@@ -8,7 +8,5 @@ import remarkBreaks from "remark-breaks";
 export default defineConfig({
   site: "https://scrittibelli.onrender.com",
   integrations: [mdx(), sitemap(), tailwind()],
-  markdown: {
-    remarkPlugins: [remarkBreaks],
-  },
+  markdown: { remarkPlugins: [remarkBreaks] },
 });

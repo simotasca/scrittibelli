@@ -11,3 +11,21 @@
     @apply px-6 pt-2 pb-10 max-sm:px-4;
   }
 }
+
+@keyframes highlighthash {
+  0% {
+    background-color: #ffffa0;
+  }
+  70% {
+    background-color: #ffffa0;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+@layer utilities {
+  .highlight {
+    animation: 3s forwards highlighthash;
+  }
+}

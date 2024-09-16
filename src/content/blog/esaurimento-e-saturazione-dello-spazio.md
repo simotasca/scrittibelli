@@ -31,6 +31,7 @@ Nelle discussioni storiche sulla cosiddetta "scoperta" di continenti come l'Amer
 In primo luogo le civiltà europee sono storicamente ritenute discendenti degli ominidi provenienti dall'africa (corpo fisico) e della sapienza orientale (corpo astrale) dimostrandosi figli dell'uomo e figli di Dio.
 
 In seguito vi sono state le seguenti tappe nella scoperta del mondo:
+
 - Asia (emotivo)
 - Africa (fisico)
 - America (mentale)
@@ -39,25 +40,19 @@ In seguito vi sono state le seguenti tappe nella scoperta del mondo:
 - Foto satellitari (mondo come unità)
 - Nuova Gerusalemme (anima, gerarchia)
 
-
-
-### Scoperta dell'Asia
 Il primo territorio scoperto dalla coscienza mentale umana maturata è stata l'asia in seguito al superamento della barriera del medioriente mediante lunghe epoche di conflitti.
 
 > #### Da ChatGPT:
-> 
+>
 > I primi contatti tra Oriente e Occidente risalgono a periodi molto antichi e si sono sviluppati attraverso varie rotte e interazioni:
-> 
+>
 > 1. **Rotta della Seta**: Già nel III secolo a.C., la Via della Seta ha facilitato il commercio e lo scambio culturale tra l'Impero Romano e la Cina. Questo percorso commerciale e culturale ha permesso il trasferimento di beni, idee e tecnologie tra le due regioni.
-> 
 > 2. **Imperi Persiani e Greci**: Dopo le conquiste di Alessandro Magno (IV secolo a.C.), ci sono stati contatti significativi tra i Greci e l'Impero Persiano, e successivamente tra i Greci e le regioni dell'Asia centrale e dell'India.
-> 
 > 3. **Contatti nell'Alto Medioevo**: Durante il Medioevo, le interazioni tra l'Europa e l'Asia aumentarono attraverso il commercio e le crociate. Le crociate (XI-XIII secolo) furono eventi significativi che portarono europei e orientali in contatto diretto.
-> 
-> 4. **Marco Polo (XIII secolo)**: Marco Polo, il mercante e esploratore veneziano, rappresenta un punto cruciale nell'esplorazione europea dell'Asia. I suoi viaggi alla corte di Kublai Khan e il suo resoconto, *Il Milione*, fornirono una delle prime descrizioni dettagliate e influenti dell'Oriente ai lettori europei.
-> 
+> 4. **Marco Polo (XIII secolo)**: Marco Polo, il mercante e esploratore veneziano, rappresenta un punto cruciale nell'esplorazione europea dell'Asia. I suoi viaggi alla corte di Kublai Khan e il suo resoconto, _Il Milione_, fornirono una delle prime descrizioni dettagliate e influenti dell'Oriente ai lettori europei.
+>
 > **Consapevolezza piena dell'Oriente**: La consapevolezza più ampia e sistematica dell'Oriente da parte dell'Occidente può essere collocata nel tardo XIII secolo, grazie ai resoconti di Marco Polo. Tuttavia, l'esplorazione e la conoscenza dettagliata dell'Oriente continuarono a svilupparsi nei secoli successivi con le esplorazioni portoghesi e spagnole nel XVI secolo, che culminarono in una comprensione più completa e diretta dell'Asia.
-> 
+>
 > **Conclusione**: Marco Polo è effettivamente un punto di riferimento cruciale per la consapevolezza europea dell'Oriente, poiché i suoi racconti hanno avuto un impatto duraturo sulla percezione europea dell'Asia.
 
 [^1]: **MinervaWeb**: Esplorazioni e scoperte geografiche: https://www.senato.it/4800
