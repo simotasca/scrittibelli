@@ -30,7 +30,7 @@ Tutti questi esempi possono essere sintetizzati in un'affermazione fondamentale 
 
 Spesso per dimostrare la causalità spirituale ad un materialista si cade nell'errore di utilizzare solo considerazioni relative ai fatti in senso stretto senza valutarne il contesto.
 
-Ad esempio non va negato il fatto che gli eventi imprevisti possono generare delle emozioni improvvise, anche e soprattutto perchè le emozioni sono esattamente quella parte del corpo emotivo più a contatto con il piano fisico e che si occupa di generare delle risposte agli eventi percepiti dal corpo fisico.
+Ad esempio non va negato il fatto che eventi imprevisti possano generare delle emozioni improvvise, anche e soprattutto perchè le emozioni sono esattamente quella parte del corpo emotivo più a contatto con il piano fisico e che si occupa di generare delle risposte agli eventi percepiti dal corpo fisico.
 
 #### Repetita Iuvant
 
@@ -42,7 +42,9 @@ Laddove ad un'esperienza è associato un certo tipo di stato emotivo, la sua rip
 
 Nel tentativo di difendere un valore spirituale non si dovrebbe perdere il buon senso (cosa che spesso avviene a causa dell'orgoglio) e non si dovrebbe mai affermare qualcosa che non si sa, specialmente in contrapposizione a qualcosa che si sa per certo. Non è sbagliato talvolta saper osservare come certi eventi psicologici emergano dal subconscio evocati dalle associazioni con la forma, anche se spesso si vorrebbe poter dimostrare ogni fatto accidentale che capita ad un soggetto come il diretto riflesso di un suo stato interiore. Il problema è che ciò spesso viene fatto senza tenere conto del fatto che la vita interiore soggettiva è sempre vita di gruppo ove il soggetto non è mai separato e che quindi è effettivamente antispirituale cercare di dimostrare che ogni evento può essere ricondotto al soggetto considerato in senso separativo. Se un individuo pensa di poter rintracciare tutte le cause degli eventi a cui assiste in sé stesso è come se stesse affermando di essere Dio, cosa che potrebbe fare solo rendendosi conto che questo implica l'idea di coscienza di gruppo ovvero di non separatività raggiunta attraverso i rapporti tra anime.
 
-<!-- se uno stato interiore è evocato da circostanze oggettive significa che non si stà agendo come anime e non si sta creando. In altre parole si sta parassitando il gruppo procedendo in uno sviluppo individuale illusorio, nel quale si cresce prendendo dal retaggio di gruppo. questa non è evoluzione e qui sta la differenza essenziale tra la coscienza individuale e quella di gruppo: l'individuo evolve in maniera autocosciente e determina attivamente la propria evoluzione, mentre la coscienza di gruppo sa che questo progresso individuale non puòò essere separato da quello del gruppo. Ciò non significa che l'individuo non autodetermini una vera evoluzione, solo non ha ancora la perfetta percezione di come farlo e in parte lo fa illudendosi. Il gruppo ricerca sempre l'evoluzione proiettandosi verso i mondi lontani, a prescindere dal suo livello evolutivo individuale. La comunità si trova cercando i mondi lontani -->
+<!-- se uno stato interiore è evocato da circostanze oggettive significa che non si stà agendo come anime e non si sta creando. In altre parole si sta parassitando il gruppo procedendo in uno sviluppo individuale illusorio, nel quale si cresce prendendo dal retaggio di gruppo. questa non è evoluzione e qui sta la differenza essenziale tra la coscienza individuale e quella di gruppo: l'individuo evolve in maniera autocosciente e determina attivamente la propria evoluzione, mentre la coscienza di gruppo sa che questo progresso individuale non può essere separato da quello del gruppo. Ciò non significa che l'individuo non autodetermini una vera evoluzione, solo non ha ancora la perfetta percezione di come farlo e in parte lo fa illudendosi. Il gruppo ricerca sempre l'evoluzione proiettandosi verso i mondi lontani, a prescindere dal suo livello evolutivo individuale. La comunità si trova cercando i mondi lontani -->
+
+<!-- Eppure quando la materia nasce dallo spirito è una meraviglia, ma quando lo spirito nasce dalla materia è una meraviglia delle meraviglie -->
 
 #### Il problema del materialismo
 
@@ -60,11 +62,11 @@ Considero ora come questo fraintendimento si ripropone dal punto di vista della 
 
 ### Il piano eterico
 
-Dal punto di vista eterico, si può pensare che quando un'interazione fisica produce dei risvolti eterici, ciò che si sta osservando è in realtà una dinamica che non fuoriesce realmente dal potenziale eterico attuale. Si tratta di un sistema simile all'economia, entro il quale possono esistere debito e credito come parti costituenti di un capitale che non è valutabile staticamente, <!-- limitatamente alla sua liquidità? --> ma piuttosto nella portata dei suoi flussi. Il potenziale eterico non è soltanto l'energia contenuta (limitata) all'interno di un corpo fisico, bensì il più grande ciclo entro il quale è posto.
+Dal punto di vista eterico, si può pensare che quando un'interazione fisica produce dei risvolti eterici, ciò che si sta osservando è in realtà una dinamica che non fuoriesce realmente dal potenziale eterico attuale. Si tratta di un sistema simile all'economia, entro il quale possono esistere debito e credito come parti costituenti di un capitale che non è valutabile staticamente, limitatamente alla sua liquidità, ma piuttosto nella portata dei suoi flussi. Il potenziale eterico non è soltanto l'energia contenuta (limitata) all'interno di un corpo fisico, bensì il più grande ciclo entro il quale è posto.
+
+Quando si osserva la tendenza a dirigere e limitare l'energia all'interno di un sistema chiuso, o apparentemente chiuso, causata dall'identificazione con il ciclo individuato, si ottiene la forma fisica. Se questa tendenza non è equilibrata e quindi non porta ad un riciclo dell'energia, si ha la malattia in senso lato, la quale è una condizione alterata dell'organismo, prodotta dal karma e mirata al riequilibrio dell'interscambio energetico con l'ambiente.
 
 Ogni forma, o sistema limitato, è in realtà dinamico entro sè stesso. All'interno di un corpo che appare come una forma statica vi sono costantemente dei moti energetici e questi sono sempre in relazione con il ciclo maggiore. Per esempio nel corpo umano si osserva la respirazione, il flusso sanguigno, la digestione, ecc...
-
-Quando si osserva la tendenza a dirigere l'energia all'interno di un sistema chiuso, o apparentemente chiuso, causata dall'identificazione con il ciclo individuato, si ottiene la forma fisica. Se questa tendenza non è equilibrata e quindi non porta ad un riciclo dell'energia, si ha la malattia in senso lato, la quale è una condizione alterata dell'organismo, prodotta dal karma e mirata al riequilibrio dell'interscambio energetico con l'ambiente.
 
 La natura eterica non implica limitazione, perciò ogni forma di esistenza, o ciclo, individuabile secondo un certo grado di intendimento mentale dei modelli di attività, deve essere sempre necessariamente parte di un ciclo maggiore ed avere un costante ricambio energetico con esso.
 
@@ -72,7 +74,18 @@ La natura eterica non implica limitazione, perciò ogni forma di esistenza, o ci
 
 > Perchè il sole manda luce alla terra? Affinchè questa la qualifichi con il proprio colore.
 
+<!-- infatti la forma è generata dall'ambienta, in quanto specializzazione utile ad un determinato scopo in una determinata circostanza. quindi nel momento in cui quella forma non è più in grado di essere usata per generare energia, ma piuttosto la consuma/spreca, allora è l'ambiente stesso a distruggerla. L'invecchiamento stesso è dato dalla staticità di un corpo che si interfaccia ad un mondo in evoluzione. -->
+
 ### Il piano astrale
+
+Per quanto riguarda il corpo senziente/emotivo/astrale è più semplice pensare a come sia determinato dagli eventi fisici in quanto l'uomo ha una grande familiarità con questo piano di esistenza. Infatti si può dire che le emozioni siano la parte di questo corpo in diretto contatto con il piano fisico, la quale reagisce agli eventi registrati in esso. 
+
+Questo però non significa che il corpo emotivo cambi nella sua costituzione ogni volta che produce una reazione ad un evento circostanziale, ma piuttosto che in esso risiedono le cause che si manifestano quando se ne presenta l'occasione. 
+
+è da notare infatti che spesso si cade nel fraintendimento tra cosa sia l'emozione e cosa invece è il suo effetto. La paura potrebbe facilmente essere descritta come palpitazioni, rigidità muscolare ecc... quando invece è in realtà la _sensazione_ che sta alla base di queste reazioni fisiche. Dico sensazione perchè l'emozione è infatti la percezione soggettiva del mondo oggettivo, la quale rappresenta sé stessa mediante il mondo tangibile. Infatti il corpo emotivo è il corpo senziente, è ciò che plasma la nostra percezione della forma. Nell'ambiente vi è realmente una moltitudine, ma la visione separativa che ne abbiamo è appunto l'emozione.
+
+ultima cosa, il corpo eterico nei suoi moti ciclici è realmente differenziabile? di fatto vi sono delle qualità in esso che costituiscono i sottopiani eterici superiori. la sua unità essenziale sta nell'atomo permanente.
+
 
 <!--
 #### NOTES
