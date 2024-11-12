@@ -168,8 +168,11 @@ In termini generali, si può dire che la comprensione dei modelli sia il frutto 
 <!-- modelli emotivi -->
 Questa attività congiunta di amore e luce si esprime in primo luogo, su una voluta inferiore della spirale evolutiva, come elaborazione intellettuale di una percezione emotiva. I modelli che ne derivano appartengono al subconscio collettivo, sono implicati nel sistema sociale e riguardano la vita di desiderio del singolo nel suo rapporto con quella del collettivo. Si tratta di modelli di interpretazione comportamentale che, pur risultando facilmente esatti — come nel caso dell'astrologia popolare — rappresentano l'immagine che l'individuo da di sé stesso agli occhi di un'interpretazione collettivizzata, piuttosto che il suo potenziale di esprimersi come anima.
 
+<!-- introduzione al piano -->
+Quando invece la mente è orientata dalla coscienza buddhica, i modelli di interpretazione della realtà che se ne traggono sono di qualità essenzialmente differente. Non più generalizzazioni temporanee, circostanziali, derivanti dall'illusione (personale o collettiva), bensì modelli eterni di attività che riflettono il progresso delle unità di coscienza nelle sue diverse fasi. 
+
 <!-- evoluzione nello spazio-tempo -->
-Quando invece la mente è orientata dalla coscienza buddhica, i modelli di interpretazione della realtà che se ne traggono sono di qualità essenzialmente differente. Non più generalizzazioni temporanee e circostanziali, derivanti dall'illusione (personale o collettiva), bensì modelli eterni di attività che riflettono il progresso delle unità di coscienza nelle sue diverse fasi. Dal punto di vista dell'anima, spazio e tempo non sono che le modalità di espressione della sua qualità fondamentale: il progresso di gruppo, o evoluzione. Pur vivendo in unità essenziale con le altre anime sul piano buddhico, l'anima si differenzia nello spazio, disponendo in esso tutti gli stati del proprio superconscio e subconscio secondo la loro qualità <!-- qui non si capisce che quegli stati superconsci sono le altre anime--> e ponendosi al centro quale soggetto cosciente. Questa distribuzione spaziale della possibilità, che sono l'illimitato potenziale espressivo dell'anima unica, rappresenta le opportunità con cui la forma entra in contatto, secondo un modello probabilitico di attività. Tale modello è il riflesso della qualità dell'anima, ovvero della sua modalità individuale di rapportarsi alla possibilità unica, che nella forma si riflette nell'esperienza. Ciò che rende unico nella forma è appunto l'esperienza, che per ciascuno è sempre inevitabilmente diversa.
+Dal punto di vista dell'anima, spazio e tempo non sono che le due espressioni della sua natura: il progresso di gruppo, o evoluzione. Pur vivendo in unità essenziale con le altre anime sul piano buddhico, l'anima si differenzia nello spazio entro il quale ciascuna qualità del gruppo (tutti gli stati del subconscio individuale) occupa una determinata posizione, ponendosi al centro quale soggetto cosciente. Questa distribuzione spaziale della possibilità, che costituisce nella sua totalità l'illimitato potenziale espressivo dell'anima unica, derermina il modello probabilitico di attività secondo il quale la forma viene a contatto nel tempo con le opportunità. Tale modello è il riflesso della qualità dell'anima, ovvero della sua modalità individuale di rapportarsi alla possibilità unica, la sua posizione nello spazio qualitativo, che nella forma si riflette nell'esperienza. Ciò che contraddistingue l'unicità della forma è appunto l'esperienza, che è sempre differente per ciascun ente.
 
 - tornare sul concetto di piano (e di modelli come frammenti del piano)
 
@@ -194,6 +197,55 @@ modelli: la percezione dei modelli riguarda le possibilità espresse dalla sosta
 l'adattamento tra spirito e materia prodotto dalla fusione di queste tre luci nella mente e nel cervello dell'uomo è il compimento del piano. l'uomo diventa un gerarca, un produttore di idee e un conoscitore dei modelli (del piano) e in questo modo diventa un suo agente attivo oltre che una parte passiva in esso.
 
 
+<!---------------------------------------------------------------------------------->
+
+vecchio discorso sulla differenziazione.
+
+il gruppo ha un limite, quel limite messo in rapporto con lo spazio infinito dall'amore produce la differenziazione, ovvero la reiterazione del limite affinchè riempia lo spazio. il riverbero.
+
+eppure non mi soffermo sulla definizione di amore se non come rapporto tra limitato e assoluto.
+
+ma soprattutto non considero il fatto che il vuoto non può esistere.
+
+infatti facendo questo pensiero mi chiedevo secondo quale logica le forme si disponessero in uno spazio vuoto e illimitato.
+
+in realtà conssideravo entrambe e mi dicevo che l'amore pone la necessità dell'assenza di vuoto, e per questo la luce irradia.
+
+in ogni caso l'amore come collega il limitao all'assoluto? per gradi gerarchici e attraverso la differenziazione.
+
+questo ha senso pensando che lo spazio è dove si esprimono le qualità.
+
+lo spazio, è permeato di qualità differenziate, e questo è l'amore. dunque l'intelligenza deve creare dei cicli di attività per riempire lo spazio fatto di qualità, ovvero dare a ciascun soggetto (qualità), una forma oggettiva.
+
+il problema è che questa forma risulta distinta dalle altre (e questo è il limite), con uno scopo (proposito) separato. Il limite sta nella capacità di riconoscere il proposito.
+
+qui risulta una definizione essenziale di proposito, che deve essere inteso in senso non oggettivo. per cosa si vive? qual'è il motivo dell'esistenza di ciascun essere vivente? per esempio molti dicono per godere, altri per svolgere un certo ruolo nell'economia del grande ciclo.
+nel caso del godere, questo proposito applicandosi ad ogni unità produce conflittualità.
+In questo modo si distingue l'inclusività di qualcosa di essenziale.
+
+
+<!---------------------------------------------------------------------------------->
+
+Spunti di economia
+
+se si pensa ad un ciclo è sempre necessario immaginare una entrata e una uscita.
+
+dunque moralmente non bisogna pensare ad altro che a sé stessi per avere sempre un buon ricircolo.
+
+ma ciò crea insostenibilità nell'economia degli intenti.
+
+è possibile cercare solo di ottenere dal punto di vista dell'intento? se do per ottenere vuol dire che cerco solo la seconda.
+
+si può immaginare l'universo come animali (solo prendere) o esseri divini (solo dare) o esseri umani (nel mezzo).
+
+oppure si può pensare a Dio come l'unica fonte di energia, che dà e basta, e tutto il creato come ciò che riceve soltanto da Dio. 
+
+ma se necessitiamo di nutrirci dall'ambiente è perchè prendiamo da qualcos'altro che ci sta dando, altrimenti non dovremmo mai nutrirci grazie a Dio nel cuore.
+
+vaneggio...
+
+<!---------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------->
 
 cosìì
