@@ -138,10 +138,12 @@ Secondo queste considerazioni, l'universo può essere visualizzato come tenebra 
 Così come esiste un unico soggetto, che si differenzia nell'espressione delle sue molteplici qualità, le cui differenziazioni non sono mai separate da esso, ma rappresentano semplicemente un diverso punto di vista sulla sua unica attività, analogamente, esiste una sola luce che emana dalla mente universale, la quale assume diverse qualità e differenziazioni a seconda della sostanza con cui entra in contatto.
 
 <!-- luce dell'anima -->
-Un aspetto della luce chiamato "luce dell'anima" si intensifica nella vita dell'aspirante man mano che egli entra in contatto con i piani della mente superiore, sui quali l'anima dimora, iniziando a percepire le idee, che, a differenza della "luce della conscenza" acquisita tramite l'esperienza, costituiscono una conoscenza a priori, proveniente da una fonte indipendente dall'esperienza. Ciò nonostante, il raggiungimento del contatto con questa luce da parte è il frutto delle sue lunghe esperienze nella forma nato dalla necessità percepita di attribuire un significato imperituro alla transitorietà degli eventi in cui è immerso.
+Un aspetto della luce chiamato "luce dell'anima" si intensifica nella vita dell'aspirante man mano che egli entra in contatto con i piani della mente superiore, sui quali l'anima dimora, iniziando a percepire le idee, che, a differenza della "luce della conscenza" acquisita tramite l'esperienza, costituiscono una conoscenza a priori, proveniente da una fonte indipendente dall'esperienza. Ciò nonostante, il raggiungimento del contatto con questa luce è il frutto di lunghe esperienze nella forma e sorge dalla necessità percepita di attribuire un significato imperituro alla transitorietà degli eventi.
+
+<!-- TODO: spiegare come la percezione delle idee produce la facoltà integrante tipica della mente -->
 
 <!-- sapere astratto ed estratto -->
-Questo piano di coscienza è il piano della mente astratta, ma questo termine spesso prende una connotazione fuorviante sulla quale occorre fare chiarezza. Infatti solitamente viene definito discorso astratto ciò che appare slegato da ogni contesto applicativo ma che in realtà possiede un proprio campo teorico di applicabilità. Mi riferisco per esempio al discorso matematico o geometrico i quali sono fatti di formule astratte, possono trovare diversi ambiti di applicabilità e sono veri a priori, ma che necessitano comunque di un insieme di premesse, o assiomi, entro i quali trovano la propria validità. Un facile esempio di campo artificiale di premesse teoriche che funge da validatore per un sistema di conoscenza cosiddette astratte è il piano cartesiano. Ciò non toglie che queste conoscenze teoriche, così come le altre conoscenze, possono fornire il corpo di manifestazione di un'idea astratta andando a formarne una rappresentazione sottoforma di discorso.
+Questo piano di coscienza è il piano della mente astratta, ma questo termine spesso prende una connotazione fuorviante sulla quale occorre fare chiarezza. Infatti solitamente viene definito discorso astratto ciò che appare slegato da ogni contesto applicativo ma che in realtà possiede un proprio campo teorico di applicabilità. Mi riferisco per esempio al discorso matematico o geometrico i quali sono fatti di formule astratte, possono trovare diversi ambiti di applicabilità e sono veri a priori, ma che necessitano comunque di un insieme di premesse, o assiomi, entro i quali trovano la propria validità. Un facile esempio di campo artificiale di premesse teoriche che funge da validatore per un sistema di conoscenza cosiddette astratte è il piano cartesiano. Lo stesso vale per il discorso filosofico. Ciò non toglie che queste conoscenze teoriche, così come le altre conoscenze, possono fornire il corpo di manifestazione di un'idea astratta andando a formarne una rappresentazione sottoforma di discorso.
 
 Le verità astratte che la luce dell'anima rivela sono il risultato dell'attività mentale rivolta alla vita soggettiva e perciò non possono essere mai espresse pienamente con i mezzi offerti dal linguaggio attuale, i cui termini esprimono concetti oggettivi, se non per mezzo di simboli.
 
@@ -169,33 +171,40 @@ In termini generali, si può dire che la comprensione dei modelli sia il frutto 
 Questa attività congiunta di amore e luce si esprime in primo luogo, su una voluta inferiore della spirale evolutiva, come elaborazione intellettuale di una percezione emotiva. I modelli che ne derivano appartengono al subconscio collettivo, sono implicati nel sistema sociale e riguardano la vita di desiderio del singolo nel suo rapporto con quella del collettivo. Si tratta di modelli di interpretazione comportamentale che, pur risultando facilmente esatti — come nel caso dell'astrologia popolare — rappresentano l'immagine che l'individuo da di sé stesso agli occhi di un'interpretazione collettivizzata, piuttosto che il suo potenziale di esprimersi come anima.
 
 <!-- introduzione al piano -->
-Quando invece la mente è orientata dalla coscienza buddhica, i modelli di interpretazione della realtà che se ne traggono sono di qualità essenzialmente differente. Non più generalizzazioni temporanee, circostanziali, derivanti dall'illusione (personale o collettiva), bensì modelli eterni di attività che riflettono il progresso delle unità di coscienza nelle sue diverse fasi. 
+Quando invece la mente è orientata dalla coscienza buddhica, i modelli di interpretazione della realtà che se ne traggono sono di qualità essenzialmente differente. Non più generalizzazioni temporanee, circostanziali, derivanti dall'illusione (personale o collettiva), bensì modelli eterni di attività che riflettono il progresso delle unità di coscienza nelle sue diverse fasi. È la percezione della luce della mente universale, la quale rivela il piano. 
+
+
+<!-- La comprensione delle idee, con la facoltà integrante che ne deriva, applicata alla percezione delle essenze eterne del gruppo, ovvero le qualità individuali, permette di sviluppare la conoscenza della struttura ordinata del corpo di manifestazione del volere di Dio. -->
+
+<!-- non sono in grado di spiegare questo concetto e non sono nemmeno più sicuro che sia valido -->
+
+<!-- la gerarchia produce le idee -->
+<!-- ... -->
 
 <!-- evoluzione nello spazio-tempo -->
-Dal punto di vista dell'anima, spazio e tempo non sono che le due espressioni della sua natura: il progresso di gruppo, o evoluzione. Pur vivendo in unità essenziale con le altre anime sul piano buddhico, l'anima si differenzia nello spazio entro il quale ciascuna qualità del gruppo (tutti gli stati del subconscio individuale) occupa una determinata posizione, ponendosi al centro quale soggetto cosciente. Questa distribuzione spaziale della possibilità, che costituisce nella sua totalità l'illimitato potenziale espressivo dell'anima unica, derermina il modello probabilitico di attività secondo il quale la forma viene a contatto nel tempo con le opportunità. Tale modello è il riflesso della qualità dell'anima, ovvero della sua modalità individuale di rapportarsi alla possibilità unica, la sua posizione nello spazio qualitativo, che nella forma si riflette nell'esperienza. Ciò che contraddistingue l'unicità della forma è appunto l'esperienza, che è sempre differente per ciascun ente.
+<!-- Dal punto di vista dell'anima, spazio e tempo non sono che le due espressioni della sua natura: il progresso di gruppo, o evoluzione. Pur vivendo in unità essenziale con le altre anime sul piano buddhico, l'anima si differenzia nello spazio entro il quale ciascuna qualità del gruppo (tutti gli stati del subconscio individuale) occupa una determinata posizione, ponendosi al centro quale soggetto cosciente. Questa distribuzione spaziale della possibilità, che costituisce nella sua totalità l'illimitato potenziale espressivo dell'anima unica, derermina il modello probabilitico di attività secondo il quale la forma viene a contatto nel tempo con le opportunità. Tale modello è il riflesso della qualità dell'anima, ovvero della sua modalità individuale di rapportarsi alla possibilità unica, la sua posizione nello spazio qualitativo, che nella forma si riflette nell'esperienza. Ciò che contraddistingue l'unicità della forma è appunto l'esperienza, che è sempre differente per ciascun ente. -->
 
-- tornare sul concetto di piano (e di modelli come frammenti del piano)
+<!-- tornare sul concetto di piano (e di modelli come frammenti del piano) -->
 
-- modelli intesi come risultato della coscienza buddhica (in relazione alla mente superiore, quindi sintesi di idee e amore, comprensione dello scopo delle idee. la gerarchia emana le idee per promuovere il piano). questi sono i modelli essenziali (come le grandi razze) e riguardano l'intendimento del piano. possono essere su più livelli (modelli riconosciuti dal contatto con gli uomini (razze?) o dal contatto con le grandi individualità planetarie (ronde, catene, quel che l'è)). questa è la conoscenza della mente universale.
+<!-- modelli intesi come risultato della coscienza buddhica (in relazione alla mente superiore, quindi sintesi di idee e amore, comprensione dello scopo delle idee. la gerarchia emana le idee per promuovere il piano). questi sono i modelli essenziali (come le grandi razze) e riguardano l'intendimento del piano. possono essere su più livelli (modelli riconosciuti dal contatto con gli uomini (razze?) o dal contatto con le grandi individualità planetarie (ronde, catene, quel che l'è)). questa è la conoscenza della mente universale.  -->
 
-<!-- luce della mente universale -->
+<!-- la percezione dei modelli riguarda le possibilità espresse dalla sostanza: il modello ariano è il modello di un essere individualizzato che sviluppa l'autodominio mentale. ho già spiegato come la presenza di molteplici modelli nello spazio è dovuta al riverbero di modelli passati nel presente, oppure a sottocicli, quindi i modelli si susseguono sempre in progressioni temporali. -->
+
+---
+
+<!-- adattamento (finale) -->
+Il piano si realizza attraverso l'adattamento tra spirito e materia, che avviene grazie alla fusione di queste tre luci nella mente e nel cervello dell'uomo. Questo adattamento trasforma l'essere umano in un gerarca, un creatore di idee e conoscitore dei modelli e del piano, rendendolo non solo un elemento passivo ma anche un agente attivo nel compimento del progetto divino.
+
+Il lavoro di gruppo proposto dal Tibetano pone all'aspirante e al discepolo il compito di attribuire significato a tutto ciò che lo circonda, studiando la costituzione dell'uomo e dell'universo.
+In questo approccio si produce una sintesi tra soggetto e oggetto, in cui, sostanza, oggetti dell’esperienza e saggezza si organizzano nella mente dell'individuo, che diventa in grado di attribuire significato a tutto ciò che lo circonda, riconoscendo in ogni cosa la manifestazione della propria essenza e il riflesso dell'ideazione divina.
+
+Il lavoro di gruppo proposto dal Tibetano pone all'aspirante e al discepolo il compito di attribuire significato a tutto ciò che lo circonda, studiando la costituzione dell'uomo e dell'universo. In questo approccio si realizza una sintesi tra soggetto e oggetto, in cui sostanza, oggetti dell’esperienza e saggezza vengono integrate in una unità organizzata nella mente dell’individuo. Quest'ultimo attribuisce significato ad ogni oggetto della sua esperienza, comprendendolo come manifestazione della propria qualità, riflesso dell'ideazione divina.
+
+L’opera del Tibetano mira infatti a promuovere uno degli attuali obiettivi gerarchici, espresso dal concetto di “esteriorizzazione della gerarchia”: raggiungere una sintesi con l’umanità. Ciò si attua attraverso l’integrazione del nuovo gruppo di servitori del mondo.
+
+<!---------------------------------------------------------------------------------->
 
 <!-- a volte si parla di intuizione laddove due concetti che fino a quel momento erano visti come separati, arrivano a incontrarsi in un medesimo punto passando per vie differenti. -->
-
-
-> **dopo le tre luci. sull'adattamento**
-> l'adattamento tra spirito e materia prodotto dalla fusione di queste tre luci nella mente e nel cervello dell'uomo è il compimento del piano. l'uomo diventa un gerarca, un produttore di idee e un conoscitore dei modelli (del piano) e in questo modo diventa un suo agente attivo oltre che una parte passiva in esso.
-> Il lavoro di gruppo proposto dal Tibetano mira a esprimere un significato attraverso un discorso sulla costituzione dell'uomo e dell'universo. In questo approccio si realizza una peculiare sintesi tra il concreto e l'astratto, in cui sostanza, oggetti dell’esperienza e saggezza si organizzano nella mente dell’individuo. Quest'ultimo attribuisce significato a ogni cosa, comprendendola come manifestazione della propria qualità, riflesso dell'ideazione divina.
-> Infatti l'opera del tibetano mira al compimento dell'attuale obbiettivo gerarchico del raggiungimento di una sintesi con il genere umano espressa dal concetto di esteriorizzazione della gerarchia, che si sta attuando mediante l'integrazione del nuovo gruppo di servitori del mondo.
-
-- luce dell'anima
-- luce dell'intuizione
-- luce della mente universale
-
-modelli: la percezione dei modelli riguarda le possibilità espresse dalla sostanza. il modello ariano è il modello di un essere individualizzato che sviluppa l'autodominio mentale.
-
-l'adattamento tra spirito e materia prodotto dalla fusione di queste tre luci nella mente e nel cervello dell'uomo è il compimento del piano. l'uomo diventa un gerarca, un produttore di idee e un conoscitore dei modelli (del piano) e in questo modo diventa un suo agente attivo oltre che una parte passiva in esso.
-
 
 <!---------------------------------------------------------------------------------->
 
