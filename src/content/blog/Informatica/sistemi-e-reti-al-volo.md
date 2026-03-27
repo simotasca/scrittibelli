@@ -1,7 +1,7 @@
 ---
 title: Sistemi e reti al volo
 description: Lezione introduttiva si protocolli che regolano lo scambio di informazioni su internet
-pubDate: 27/03/2026
+pubDate: 2026/03/27
 ---
 Una **rete** è un gruppo di più computer o apparecchi informatici connessi tra loro.
 
