@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "6f5624a3ba3d88ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9800f444a0d2ac5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b338297322321652",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f7446b63ec4d936",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8c9e46623625ae80",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Esplora risorse"
+        }
+      },
+      {
+        "id": "fe839f9cdd2f3aa7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Ricerca"
+        }
+      },
+      {
+        "id": "c408b5e6267141b9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etichette"
+        }
+      },
+      {
+        "id": "7e89432c9aaf7e5a",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Tutte le proprietà"
+        }
+      },
+      {
+        "id": "b35b51008dda8d27",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Segnalibri"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c25c67f2543a5bef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d04c39a5ad37d048",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Riferimenti"
+        }
+      },
+      {
+        "id": "b52c752ca2a9b83c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Collegamenti in uscita"
+        }
+      },
+      {
+        "id": "f34fb02a65d9e2c1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Struttura"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "b338297322321652",
+  "lastOpenFiles": [
+    "blog/Informatica/sistemi-e-reti-al-volo.md",
+    "blog/esaurimento-e-saturazione-dello-spazio.md",
+    "blog/come-in-alto-cosi-in-basso.md",
+    "blog/geopolitics/discorso.md",
+    "blog/geopolitics/donald-trump.md",
+    "blog/dal-sapere-alla-morale.md",
+    "blog/geopolitics/ucraina.md",
+    "series/ebraismo.md",
+    "notes/2024/09/07/conferenza-stampa-jd-vance.md",
+    "Senza nome 1",
+    "blog/Informatica"
+  ]
+}
