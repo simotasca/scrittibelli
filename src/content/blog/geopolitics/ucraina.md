@@ -4,7 +4,7 @@ description: Sulla guerra con la Russia
 pubDate: "2024/09/02"
 ---
 
-vedily:
+vedi:
 
 - https://it.wikipedia.org/wiki/Gene_Sharp
 - https://www.youtube.com/watch?v=qtOJfVyne9w

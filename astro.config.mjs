@@ -9,4 +9,5 @@ export default defineConfig({
   site: "https://scrittibelli.onrender.com",
   integrations: [mdx(), sitemap(), tailwind()],
   markdown: { remarkPlugins: [remarkBreaks] },
+  devToolbar: { enabled: false }
 });

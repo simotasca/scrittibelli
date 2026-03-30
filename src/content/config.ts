@@ -15,7 +15,7 @@ export const collections = {
         if (!arg.draft && (!arg.title || !arg.description || !arg.pubDate)) {
           ctx.addIssue({
             code: z.ZodIssueCode.custom,
-            message: "only draft articles can omit metadata",
+            message: "only draft articles can omit title, description and pubDate",
           });
         }
         return z.NEVER;

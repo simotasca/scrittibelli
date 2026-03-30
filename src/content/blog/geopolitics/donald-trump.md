@@ -66,20 +66,10 @@ Nel Gennaio 2023, Biden forza Israele a mandare tutte le sue armi in Ucraina: qu
 
 ---
 
-## Linea degli eventi storica
-
-imperialismo (europa - mondo)
-rivoluzioni socialiste (russia - cina)
-guerra fredda (conflitto america - russia)
-guerra ucraina (nato/europa - russia)
-economia mondiale (america - cina)
-
----
-
 ## Adel al-Jubeir (Ministro degli esteri dell'arabia saudita)
 
 Alcune note da [questo video](https://www.youtube.com/watch?v=CVGoah-Bcms):
 
-- L'iran è uno stato rivoluzionario o uno stato nazionale? sono ossessionati con il ripristino dell'impero persiano e la conquista della regione. La loro stessa costituzione chiama all'esportazione della rivoluzione. Khomeyni e khamenei non rispettano la sovranità delle nazioni; vogliono distruggere i sunniti e pretendono di possedere tutti gli stati sciiti.
+- L'iran è uno stato rivoluzionario o uno stato nazionale? sono ossessionati con il ripristino dell'**impero persiano** e la conquista della regione. La loro stessa costituzione chiama all'esportazione della rivoluzione. Khomeyni e Khamenei non rispettano la sovranità delle nazioni; vogliono distruggere i sunniti e pretendono di possedere tutti gli stati sciiti.
 
 - Se l'ideologia di rivoluzione permanente di Trotsky avesse prevalso sull'idea di rivoluzione all'interno dello stato di Lenin l'europa sarebbe rimasta a guardare?
